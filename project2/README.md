@@ -145,11 +145,6 @@ The software provides:
 
 ![Classification Report](screenshots/screenshot3.jpg)
 
-### Screenshot 4 — Confusion Matrix
-
-![Confusion Matrix](screenshots/screenshot4.jpg)
-
----
 
 ##  New Flower Prediction
 
