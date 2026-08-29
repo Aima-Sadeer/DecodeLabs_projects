@@ -135,19 +135,19 @@ The software provides:
 
 ### Screenshot 1 — Main Application
 
-![Iris Classification Software](Screenshots/screenshot1.jpg)
+![Iris Classification Software](screenshots/screenshot1.jpg)
 
 ### Screenshot 2 — Prediction Result
 
-![Prediction Result](Screenshots/screenshot2.jpg)
+![Prediction Result](screenshots/screenshot2.jpg)
 
 ### Screenshot 3 — Classification Report
 
-![Classification Report](Screenshots/screenshot3.jpg)
+![Classification Report](screenshots/screenshot3.jpg)
 
 ### Screenshot 4 — Confusion Matrix
 
-![Confusion Matrix](Screenshots/screenshot4.jpg)
+![Confusion Matrix](screenshots/screenshot4.jpg)
 
 ---
 
